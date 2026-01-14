@@ -1,0 +1,7 @@
+speechrecognition
+pyaudio
+pyttsx3
+requests
+opencv-python
+mediapipe
+pyautogui
