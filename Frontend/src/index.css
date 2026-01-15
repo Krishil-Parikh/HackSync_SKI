@@ -1,0 +1,191 @@
+@import "tailwindcss";
+
+/* 
+ * AI Chat Website - Global Styles
+ * A refined, artistic design system with warm neutrals and sophisticated accents
+ */
+
+/* ================================
+   DESIGN TOKENS (CSS Variables)
+   ================================ */
+
+@theme {
+  /* Enhanced Color Palette - Warm & Sophisticated */
+  
+  /* Neutral Base - Warm Sand Tones */
+  --color-cream: #FAF8F5;
+  --color-linen: #F5F2ED;
+  --color-sand: #EBE6DE;
+  --color-stone: #D4CEC4;
+  
+  /* Text Colors - Rich & Warm */
+  --color-ink: #1A1815;
+  --color-charcoal: #3D3832;
+  --color-slate: #6B635A;
+  --color-mist: #9A9288;
+  
+  /* Accent - Refined Terracotta to Warm Rose */
+  --color-accent: #C4785C;
+  --color-accent-soft: #F5E6E0;
+  --color-accent-deep: #A65D43;
+  
+  /* Secondary Accent - Soft Sage */
+  --color-sage: #8B9E87;
+  --color-sage-soft: #E8EDE7;
+  
+  /* Subtle Effects */
+  --color-glow: rgba(196, 120, 92, 0.12);
+  --color-shadow: rgba(26, 24, 21, 0.06);
+  
+  /* Font Family */
+  --font-outfit: "Outfit", system-ui, -apple-system, sans-serif;
+  
+  /* Animation Timing */
+  --ease-smooth: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* ================================
+   BASE STYLES
+   ================================ */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: var(--font-outfit);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+  line-height: 1.6;
+  letter-spacing: -0.01em;
+}
+
+/* ================================
+   CUSTOM UTILITIES
+   ================================ */
+
+/* Subtle noise texture overlay */
+.noise-texture::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.03;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* Soft glow effect */
+.soft-glow {
+  box-shadow: 
+    0 0 60px var(--color-glow),
+    0 0 120px var(--color-glow);
+}
+
+/* Elegant card styling */
+.card-elevated {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(212, 206, 196, 0.3);
+  box-shadow: 
+    0 4px 24px var(--color-shadow),
+    0 1px 2px var(--color-shadow);
+}
+
+/* Smooth scrollbar */
+.scrollbar-elegant::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollbar-elegant::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollbar-elegant::-webkit-scrollbar-thumb {
+  background: var(--color-stone);
+  border-radius: 3px;
+}
+
+.scrollbar-elegant::-webkit-scrollbar-thumb:hover {
+  background: var(--color-mist);
+}
+
+/* Focus ring */
+.focus-ring:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-accent-soft), 0 0 0 5px var(--color-accent);
+}
+
+/* Organic shape mask */
+.organic-shape {
+  border-radius: 60% 40% 50% 50% / 50% 50% 40% 60%;
+}
+
+/* ================================
+   TYPOGRAPHY UTILITIES
+   ================================ */
+
+.text-editorial {
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 1.7;
+}
+
+.text-heading {
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+}
+
+/* ================================
+   ANIMATION KEYFRAMES
+   ================================ */
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes pulse-soft {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+@keyframes breathe {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.02);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-pulse-soft {
+  animation: pulse-soft 3s ease-in-out infinite;
+}
+
+.animate-breathe {
+  animation: breathe 4s ease-in-out infinite;
+}
