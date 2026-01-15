@@ -104,7 +104,7 @@ while True:
         if fingers == [0,1,1,0,0]:
             if hold("dictate", CLICK_HOLD):
                 pyautogui.click()
-                speak("Listening")
+                speak("Listening", "calm")
                 text = listen()
                 pyautogui.write(text)
                 reset("dictate")

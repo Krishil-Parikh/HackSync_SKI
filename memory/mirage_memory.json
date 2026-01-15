@@ -1,0 +1,3931 @@
+{
+  "next_id": 174,
+  "active": [
+    {
+      "id": 7,
+      "text": "I noticed Riya on the third day of school and everything changed",
+      "timestamp": "11:24",
+      "concepts": [
+        "riya",
+        "the third day",
+        "third day",
+        "school",
+        "everything"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.36,
+      "links": [
+        1,
+        4,
+        5,
+        3,
+        2
+      ],
+      "tier": "active"
+    },
+    {
+      "id": 128,
+      "text": "Staff meeting after lunch",
+      "timestamp": "11:29",
+      "concepts": [
+        "staff meeting",
+        "lunch"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        112,
+        60,
+        73,
+        113,
+        61
+      ],
+      "tier": "active"
+    },
+    {
+      "id": 146,
+      "text": "Sir will we have test tomorrow",
+      "timestamp": "11:30",
+      "concepts": [
+        "tomorrow",
+        "test",
+        "sir"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.34,
+      "links": [
+        50,
+        110,
+        144,
+        124,
+        132
+      ],
+      "tier": "active"
+    },
+    {
+      "id": 157,
+      "text": "Sir, yesterday I met Mr Mehta, who is he ? he knew your name",
+      "timestamp": "11:37",
+      "concepts": [
+        "yesterday",
+        "mr mehta",
+        "name",
+        "sir",
+        "mehta"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.39,
+      "links": [
+        146,
+        9,
+        18,
+        110,
+        144
+      ],
+      "tier": "active"
+    },
+    {
+      "id": 110,
+      "text": "Sir the bell already rang why are you still teaching",
+      "timestamp": "11:28",
+      "concepts": [
+        "bell",
+        "sir"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.43000000000000005,
+      "links": [
+        3,
+        73,
+        14,
+        61,
+        7
+      ],
+      "tier": "active"
+    },
+    {
+      "id": 144,
+      "text": "Sir you talk like a movie character",
+      "timestamp": "11:30",
+      "concepts": [
+        "movie character",
+        "sir"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.4,
+      "links": [
+        110,
+        124,
+        132,
+        128,
+        61
+      ],
+      "tier": "active"
+    },
+    {
+      "id": 173,
+      "text": "The memory system uses 3 tiers: Active (7 nodes), Passive (50 nodes), and Super Passive (unlimited).",
+      "timestamp": "17:20",
+      "concepts": [
+        "passive",
+        "super passive",
+        "memory system",
+        "3 tiers",
+        "7 nodes",
+        "50 nodes",
+        "super"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.37,
+      "links": [
+        172,
+        12,
+        1,
+        128,
+        14
+      ],
+      "tier": "active"
+    }
+  ],
+  "passive": [
+    {
+      "id": 4,
+      "text": "Aarav became my best friend during the first week of ninth grade",
+      "timestamp": "11:24",
+      "concepts": [
+        "the first week of ninth",
+        "aarav",
+        "best friend",
+        "first week",
+        "ninth grade"
+      ],
+      "emotions": [
+        "happiness"
+      ],
+      "importance": 0.4,
+      "links": [
+        3,
+        1
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 10,
+      "text": "You think too much Mirage and that is a good thing",
+      "timestamp": "11:24",
+      "concepts": [
+        "mirage",
+        "too much mirage",
+        "that",
+        "good thing"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        7,
+        3,
+        4
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 12,
+      "text": "Kunal hated me because I topped the math test",
+      "timestamp": "11:24",
+      "concepts": [
+        "kunal",
+        "math test"
+      ],
+      "emotions": [
+        "anger"
+      ],
+      "importance": 0.37,
+      "links": [
+        3,
+        4,
+        10
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 8,
+      "text": "She laughed at something silly and I forgot what the teacher was saying",
+      "timestamp": "11:24",
+      "concepts": [
+        "something",
+        "teacher"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        7,
+        1,
+        3,
+        5
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 32,
+      "text": "That is better than talking nonsense",
+      "timestamp": "11:25",
+      "concepts": [
+        "that",
+        "nonsense"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.31,
+      "links": [
+        19,
+        10,
+        3,
+        21
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 36,
+      "text": "True friendship means accepting stupidity",
+      "timestamp": "11:25",
+      "concepts": [
+        "true friendship",
+        "stupidity"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        3,
+        21,
+        14
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 40,
+      "text": "That was the first time school felt fun",
+      "timestamp": "11:25",
+      "concepts": [
+        "first",
+        "that",
+        "first time school"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.3,
+      "links": [
+        19,
+        1,
+        10,
+        32,
+        4
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 14,
+      "text": "Aarav told me Kunal was talking trash about me",
+      "timestamp": "11:25",
+      "concepts": [
+        "aarav",
+        "kunal",
+        "trash"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.31,
+      "links": [
+        4,
+        12,
+        3,
+        7,
+        10
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 58,
+      "text": "Finish your homework before sleeping",
+      "timestamp": "11:26",
+      "concepts": [
+        "homework"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        14,
+        3,
+        37,
+        21
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 60,
+      "text": "I fell asleep thinking about the canteen and laughter",
+      "timestamp": "11:26",
+      "concepts": [
+        "asleep thinking",
+        "canteen",
+        "laughter"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.3,
+      "links": [
+        3,
+        27,
+        4,
+        21,
+        1
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 61,
+      "text": "Mirage did you eat anything after school",
+      "timestamp": "11:26",
+      "concepts": [
+        "anything",
+        "school",
+        "mirage"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.25,
+      "links": [
+        7,
+        1,
+        21,
+        10,
+        8
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 63,
+      "text": "That is not food",
+      "timestamp": "11:26",
+      "concepts": [
+        "that",
+        "food"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.3,
+      "links": [
+        19,
+        32,
+        10,
+        40,
+        46
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 19,
+      "text": "That was the day I thought maybe I could become a teacher",
+      "timestamp": "11:25",
+      "concepts": [
+        "that",
+        "day",
+        "teacher"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.31,
+      "links": [
+        8,
+        10,
+        7,
+        1,
+        3
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 69,
+      "text": "That means something happened",
+      "timestamp": "11:27",
+      "concepts": [
+        "that",
+        "something"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.24,
+      "links": [
+        63,
+        8,
+        19,
+        10,
+        32
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 72,
+      "text": "I met someone new in school",
+      "timestamp": "11:27",
+      "concepts": [
+        "someone",
+        "school"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.3,
+      "links": [
+        7,
+        61,
+        1,
+        21,
+        8
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 85,
+      "text": "But that is your strength",
+      "timestamp": "11:27",
+      "concepts": [
+        "that",
+        "strength"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.29,
+      "links": [
+        63,
+        32,
+        19,
+        10,
+        69
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 89,
+      "text": "That is my job",
+      "timestamp": "11:27",
+      "concepts": [
+        "that",
+        "job"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.29,
+      "links": [
+        19,
+        85,
+        63,
+        32,
+        10
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 106,
+      "text": "I fell asleep hearing her humming in the kitchen",
+      "timestamp": "11:28",
+      "concepts": [
+        "her",
+        "kitchen"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.31,
+      "links": [
+        100,
+        41,
+        73,
+        7,
+        65
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 108,
+      "text": "Wake up tomorrow early you have a big day",
+      "timestamp": "11:28",
+      "concepts": [
+        "tomorrow",
+        "a big day",
+        "big day"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.3,
+      "links": [
+        4,
+        7,
+        50,
+        55,
+        37
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 37,
+      "text": "We sat on the last bench and shared a plate of fries",
+      "timestamp": "11:25",
+      "concepts": [
+        "last bench",
+        "plate",
+        "fries"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        4,
+        7,
+        3,
+        21,
+        36
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 50,
+      "text": "Tomorrow we are playing football no excuses",
+      "timestamp": "11:26",
+      "concepts": [
+        "tomorrow",
+        "football"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        14,
+        22,
+        7,
+        19,
+        37
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 73,
+      "text": "Friend or trouble",
+      "timestamp": "11:27",
+      "concepts": [
+        "friend",
+        "trouble"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        3,
+        14,
+        61,
+        7,
+        37
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 113,
+      "text": "Knowledge is also food",
+      "timestamp": "11:29",
+      "concepts": [
+        "knowledge",
+        "food"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.28,
+      "links": [
+        63,
+        73,
+        3,
+        61,
+        110
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 119,
+      "text": "That is the dangerous part",
+      "timestamp": "11:29",
+      "concepts": [
+        "that",
+        "dangerous part"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.29,
+      "links": [
+        10,
+        40,
+        19,
+        32,
+        46
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 125,
+      "text": "Every single day",
+      "timestamp": "11:29",
+      "concepts": [
+        "every single day"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        7,
+        4,
+        108
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 111,
+      "text": "Because understanding matters more than the bell",
+      "timestamp": "11:28",
+      "concepts": [
+        "understanding",
+        "bell"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        110,
+        73,
+        14,
+        3,
+        65
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 130,
+      "text": "Bring your patience",
+      "timestamp": "11:30",
+      "concepts": [
+        "patience"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        61,
+        7,
+        128
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 132,
+      "text": "Sir why do you care so much",
+      "timestamp": "11:30",
+      "concepts": [
+        "sir"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.25,
+      "links": [
+        110,
+        124,
+        7,
+        128
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 133,
+      "text": "Because once someone cared for me",
+      "timestamp": "11:30",
+      "concepts": [
+        "someone"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.25,
+      "links": [
+        72,
+        117,
+        7
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 135,
+      "text": "My teacher",
+      "timestamp": "11:30",
+      "concepts": [
+        "teacher"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.2,
+      "links": [
+        19,
+        8,
+        61,
+        7,
+        128
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 143,
+      "text": "How fast time moves",
+      "timestamp": "11:30",
+      "concepts": [
+        "fast time"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        4,
+        120,
+        7
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 112,
+      "text": "But sir we have lunch",
+      "timestamp": "11:29",
+      "concepts": [
+        "lunch"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        61,
+        73,
+        111,
+        110,
+        60
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 150,
+      "text": "That sounds scary",
+      "timestamp": "11:30",
+      "concepts": [
+        "that"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.19,
+      "links": [
+        10,
+        19,
+        32,
+        40,
+        46
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 152,
+      "text": "Keep inspiring them Mirage",
+      "timestamp": "11:30",
+      "concepts": [
+        "mirage",
+        "them"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.22,
+      "links": [
+        61,
+        10,
+        116,
+        100,
+        7
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 154,
+      "text": "When the class ended the room felt quiet",
+      "timestamp": "11:30",
+      "concepts": [
+        "class",
+        "room"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.23,
+      "links": [
+        100,
+        3,
+        30,
+        61,
+        128
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 65,
+      "text": "Come sit I made dal and rice",
+      "timestamp": "11:27",
+      "concepts": [
+        "dal",
+        "rice"
+      ],
+      "emotions": [
+        "anger"
+      ],
+      "importance": 0.37,
+      "links": [
+        7,
+        21,
+        14,
+        12,
+        3
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 100,
+      "text": "I hugged her before going to my room",
+      "timestamp": "11:28",
+      "concepts": [
+        "her",
+        "room"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.34,
+      "links": [
+        41,
+        73,
+        61,
+        3,
+        37
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 159,
+      "text": "road do you remember mr. mehta?",
+      "timestamp": "17:07",
+      "concepts": [
+        "mehta",
+        "mr. mehta"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.3,
+      "links": [
+        158,
+        157,
+        9,
+        18
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 160,
+      "text": "Yes, I do! He's the retired professor who taught you mathematics. What a wonderful influence he was!",
+      "timestamp": "17:07",
+      "concepts": [
+        "retired professor",
+        "mathematics",
+        "wonderful influence"
+      ],
+      "emotions": [
+        "excitement",
+        "happiness"
+      ],
+      "importance": 0.4,
+      "links": [
+        158,
+        120,
+        4,
+        157,
+        159
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 162,
+      "text": "Oh my goodness, I do! That's so cool that you're asking! I can't wait to dive into everything we've talked about.",
+      "timestamp": "17:07",
+      "concepts": [
+        "that",
+        "everything"
+      ],
+      "emotions": [
+        "excitement"
+      ],
+      "importance": 0.23,
+      "links": [
+        7,
+        69,
+        63,
+        19,
+        85
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 163,
+      "text": "he has rolled his dive and tell me more about him like what all did he teach me and everything?",
+      "timestamp": "17:08",
+      "concepts": [
+        "his dive",
+        "him",
+        "all",
+        "everything"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        7,
+        162,
+        96,
+        15,
+        43
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 164,
+      "text": "Oh, that's fantastic! I'm so excited to hear more about your reunion and what he taught you. Do you remember any specific topics or lessons that stood out?",
+      "timestamp": "17:08",
+      "concepts": [
+        "that",
+        "reunion",
+        "any specific topics",
+        "lessons"
+      ],
+      "emotions": [
+        "excitement"
+      ],
+      "importance": 0.4,
+      "links": [
+        162,
+        63,
+        85,
+        19,
+        32
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 165,
+      "text": "Oh no, that's absolutely heart-wrenching! I'm so incredibly sorry to hear that. I can only imagine how difficult this must be for you right now.",
+      "timestamp": "17:09",
+      "concepts": [
+        "that",
+        "this"
+      ],
+      "emotions": [
+        "excitement",
+        "sadness",
+        "focus"
+      ],
+      "importance": 0.39,
+      "links": [
+        164,
+        162,
+        10,
+        32,
+        40
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 120,
+      "text": "Good work with the ninth grade results",
+      "timestamp": "11:29",
+      "concepts": [
+        "ninth",
+        "good work",
+        "ninth grade results"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        4,
+        10,
+        36,
+        40,
+        60
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 158,
+      "text": "Mr Mehta is a retired professor who taught me mathematics and had a significant influence on my teaching style and approach.",
+      "timestamp": "11:37",
+      "concepts": [
+        "mehta",
+        "mr mehta",
+        "retired professor",
+        "mathematics",
+        "significant influence",
+        "teaching style",
+        "approach"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.39,
+      "links": [
+        157,
+        18,
+        9,
+        120,
+        14
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 166,
+      "text": "what particular thing did mr. mehta teach you? like exactly what?",
+      "timestamp": "17:10",
+      "concepts": [
+        "mehta",
+        "particular thing",
+        "mr. mehta",
+        "exactly"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.36,
+      "links": [
+        158,
+        159,
+        157,
+        9,
+        18
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 167,
+      "text": "Oh wow, that's a big question, especially now! I remember him emphasizing that math wasn't just about numbers, but about understanding patterns and the elegant logic behind everything.",
+      "timestamp": "17:10",
+      "concepts": [
+        "that",
+        "big question",
+        "him",
+        "math",
+        "numbers",
+        "patterns",
+        "elegant logic",
+        "everything"
+      ],
+      "emotions": [
+        "excitement"
+      ],
+      "importance": 0.44,
+      "links": [
+        162,
+        164,
+        158,
+        163,
+        7
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 168,
+      "text": "Hey, my name is Krishna",
+      "timestamp": "17:14",
+      "concepts": [
+        "krishna",
+        "name"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.28,
+      "links": [
+        157,
+        158,
+        167,
+        110,
+        146
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 169,
+      "text": "Nice to meet you Krishna!",
+      "timestamp": "17:14",
+      "concepts": [
+        "krishna"
+      ],
+      "emotions": [
+        "excitement"
+      ],
+      "importance": 0.32,
+      "links": [
+        168,
+        167,
+        157,
+        158,
+        164
+      ],
+      "tier": "passive"
+    },
+    {
+      "id": 170,
+      "text": "What is your name?",
+      "timestamp": "17:14",
+      "concepts": [
+        "name"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.25,
+      "links": [
+        157,
+        168,
+        110,
+        128,
+        146
+      ],
+      "tier": "passive"
+    }
+  ],
+  "super_passive": [
+    {
+      "id": 16,
+      "text": "I pretended not to care but it hurt",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 20,
+      "text": "I walked home smiling without knowing why",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 23,
+      "text": "Bro half an hour is useless just bunk it",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 28,
+      "text": "Yeah we are starving",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 29,
+      "text": "I was not but now I am",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 31,
+      "text": "I think too much before talking",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 39,
+      "text": "Always",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 42,
+      "text": "I did not even respond",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 47,
+      "text": "I do not know why I said that",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 52,
+      "text": "You better",
+      "timestamp": "11:26",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 54,
+      "text": "Why are you smiling alone",
+      "timestamp": "11:26",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 57,
+      "text": "I did not know it then but she was right",
+      "timestamp": "11:26",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 59,
+      "text": "Yes dad",
+      "timestamp": "11:26",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 64,
+      "text": "It kept me alive",
+      "timestamp": "11:26",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 66,
+      "text": "Okay okay I am coming",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 68,
+      "text": "Better than usual",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 70,
+      "text": "Maybe",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 74,
+      "text": "I do not know yet",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 35,
+      "text": "He will never change",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.23,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 76,
+      "text": "She laughs a lot",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 77,
+      "text": "Ah I see",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 78,
+      "text": "What do you see",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 79,
+      "text": "You are growing up",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 51,
+      "text": "Fine I will come",
+      "timestamp": "11:26",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.23,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 81,
+      "text": "It is and it is beautiful",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 44,
+      "text": "Why does he always look angry",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "anger"
+      ],
+      "importance": 0.24,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 83,
+      "text": "He is right",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 34,
+      "text": "You should be ashamed",
+      "timestamp": "11:25",
+      "concepts": [],
+      "emotions": [
+        "focus"
+      ],
+      "importance": 0.27,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 75,
+      "text": "Then it is important",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "focus"
+      ],
+      "importance": 0.27,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 86,
+      "text": "Sometimes it feels heavy",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 87,
+      "text": "Then share it with me",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 88,
+      "text": "I do not want to worry you",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.23,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 1,
+      "text": "I was fourteen when I first realized school felt bigger than home",
+      "timestamp": "11:24",
+      "concepts": [
+        "fourteen",
+        "first",
+        "school",
+        "home"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 90,
+      "text": "I wish I was as calm as you",
+      "timestamp": "11:27",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 9,
+      "text": "Mr Mehta once told me I asked better questions than most seniors",
+      "timestamp": "11:24",
+      "concepts": [
+        "mehta",
+        "mr mehta",
+        "better questions",
+        "most seniors"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 92,
+      "text": "How do you know",
+      "timestamp": "11:28",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 93,
+      "text": "Because you care",
+      "timestamp": "11:28",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 11,
+      "text": "That sentence stayed with me for years",
+      "timestamp": "11:24",
+      "concepts": [
+        "years",
+        "that sentence"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 13,
+      "text": "Some people are just lucky I guess",
+      "timestamp": "11:25",
+      "concepts": [
+        "some people"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 24,
+      "text": "You say that like bunking is easy for me",
+      "timestamp": "11:25",
+      "concepts": [
+        "bunking"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 97,
+      "text": "Stand tall and stay kind",
+      "timestamp": "11:28",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 41,
+      "text": "You think you are cool sitting with her",
+      "timestamp": "11:25",
+      "concepts": [
+        "her"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 71,
+      "text": "You never hide things from me",
+      "timestamp": "11:27",
+      "concepts": [
+        "things"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 95,
+      "text": "Bullies always are",
+      "timestamp": "11:28",
+      "concepts": [
+        "bullies"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 101,
+      "text": "Do not grow up too fast",
+      "timestamp": "11:28",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 102,
+      "text": "I will try",
+      "timestamp": "11:28",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.23,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 103,
+      "text": "That night I felt safe",
+      "timestamp": "11:28",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 99,
+      "text": "It is the strongest thing you have",
+      "timestamp": "11:28",
+      "concepts": [
+        "strongest thing"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 104,
+      "text": "Goodnight my hero",
+      "timestamp": "11:28",
+      "concepts": [
+        "goodnight"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 84,
+      "text": "Wow thanks",
+      "timestamp": "11:27",
+      "concepts": [
+        "wow thanks"
+      ],
+      "emotions": [
+        "excitement"
+      ],
+      "importance": 0.37,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 107,
+      "text": "I did not know those sounds would stay with me forever",
+      "timestamp": "11:28",
+      "concepts": [
+        "those sounds"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 56,
+      "text": "Those are important",
+      "timestamp": "11:26",
+      "concepts": [
+        "those"
+      ],
+      "emotions": [
+        "focus"
+      ],
+      "importance": 0.43,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 109,
+      "text": "Okay",
+      "timestamp": "11:28",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 15,
+      "text": "Ignore him bro he is just insecure",
+      "timestamp": "11:25",
+      "concepts": [
+        "him"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.23,
+      "links": [
+        6
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 26,
+      "text": "Maybe today is not that day",
+      "timestamp": "11:25",
+      "concepts": [
+        "today"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.28,
+      "links": [
+        22
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 45,
+      "text": "Some people just carry storms inside",
+      "timestamp": "11:25",
+      "concepts": [
+        "some people",
+        "storms"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.28,
+      "links": [
+        13
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 2,
+      "text": "My mom used to wake me up every day at six thirty",
+      "timestamp": "11:24",
+      "concepts": [
+        "six thirty",
+        "mom"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        1
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 17,
+      "text": "One evening I stayed back in class solving problems alone",
+      "timestamp": "11:25",
+      "concepts": [
+        "one evening",
+        "class solving problems"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        7
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 48,
+      "text": "You are weird but in a good way",
+      "timestamp": "11:25",
+      "concepts": [
+        "good way"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        7
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 116,
+      "text": "Mirage you are too serious with them",
+      "timestamp": "11:29",
+      "concepts": [
+        "them"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 98,
+      "text": "Kindness feels weak sometimes",
+      "timestamp": "11:28",
+      "concepts": [
+        "kindness"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        73
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 118,
+      "text": "They actually listen to you",
+      "timestamp": "11:29",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 18,
+      "text": "Mr Mehta noticed and helped me understand quadratic equations",
+      "timestamp": "11:25",
+      "concepts": [
+        "mehta",
+        "mr mehta",
+        "quadratic equations"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.36,
+      "links": [
+        9
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 25,
+      "text": "One day you will stop being so scared",
+      "timestamp": "11:25",
+      "concepts": [
+        "one day"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.39,
+      "links": [
+        7
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 121,
+      "text": "Thank you sir",
+      "timestamp": "11:29",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 122,
+      "text": "They trust you",
+      "timestamp": "11:29",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 27,
+      "text": "Hey are you both going to the canteen",
+      "timestamp": "11:25",
+      "concepts": [
+        "both",
+        "canteen"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.39,
+      "links": [
+        21
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 38,
+      "text": "Do you both want extra ketchup",
+      "timestamp": "11:25",
+      "concepts": [
+        "both",
+        "extra ketchup"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.39,
+      "links": [
+        27
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 43,
+      "text": "Ignore him he is jealous",
+      "timestamp": "11:25",
+      "concepts": [
+        "him"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.2,
+      "links": [
+        6,
+        15
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 126,
+      "text": "Even when we are annoying",
+      "timestamp": "11:29",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 127,
+      "text": "Especially then",
+      "timestamp": "11:29",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 67,
+      "text": "How was your day",
+      "timestamp": "11:27",
+      "concepts": [
+        "day"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.23,
+      "links": [
+        19,
+        7
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 129,
+      "text": "I will be there",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.23,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 117,
+      "text": "Someone has to be",
+      "timestamp": "11:29",
+      "concepts": [
+        "someone"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.23,
+      "links": [
+        72,
+        7
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 131,
+      "text": "I always do",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 124,
+      "text": "Sir do you really enjoy teaching",
+      "timestamp": "11:29",
+      "concepts": [
+        "sir"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.28,
+      "links": [
+        110,
+        7
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 91,
+      "text": "You will be one day",
+      "timestamp": "11:27",
+      "concepts": [
+        "one day"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.29,
+      "links": [
+        25,
+        7
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 134,
+      "text": "Who",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 62,
+      "text": "Just some fries from the canteen",
+      "timestamp": "11:26",
+      "concepts": [
+        "some fries",
+        "canteen"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.31,
+      "links": [
+        27,
+        60
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 136,
+      "text": "Were you naughty as a student",
+      "timestamp": "11:30",
+      "concepts": [
+        "student"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        128
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 137,
+      "text": "Extremely",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 138,
+      "text": "No way",
+      "timestamp": "11:30",
+      "concepts": [
+        "no way"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 139,
+      "text": "I just hid it well",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 140,
+      "text": "You okay today",
+      "timestamp": "11:30",
+      "concepts": [
+        "today"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.2,
+      "links": [
+        22,
+        26
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 141,
+      "text": "Just thinking",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 142,
+      "text": "About",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 6,
+      "text": "I secretly agreed with him but still sat in the front row",
+      "timestamp": "11:24",
+      "concepts": [
+        "him",
+        "front row"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        4,
+        1
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 53,
+      "text": "I went home that day feeling lighter",
+      "timestamp": "11:26",
+      "concepts": [
+        "that day"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        7,
+        49
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 145,
+      "text": "Maybe I am one",
+      "timestamp": "11:30",
+      "concepts": [
+        "one"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 55,
+      "text": "Just a good day",
+      "timestamp": "11:26",
+      "concepts": [
+        "just a good day",
+        "good day"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        7,
+        4
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 147,
+      "text": "Yes",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 148,
+      "text": "Why",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 149,
+      "text": "Because you are stronger than you think",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 105,
+      "text": "Goodnight mom",
+      "timestamp": "11:28",
+      "concepts": [
+        "goodnight mom",
+        "goodnight"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        104,
+        65
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 151,
+      "text": "It should",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "focus"
+      ],
+      "importance": 0.27,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 115,
+      "text": "Neither is life",
+      "timestamp": "11:29",
+      "concepts": [
+        "neither",
+        "life"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        3,
+        7
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 153,
+      "text": "I will",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.23,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 3,
+      "text": "Dad always reminded me that discipline builds the future",
+      "timestamp": "11:24",
+      "concepts": [
+        "dad",
+        "discipline",
+        "future"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.39,
+      "links": [
+        2,
+        1
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 155,
+      "text": "I remembered the boy I used to be",
+      "timestamp": "11:30",
+      "concepts": [
+        "boy"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        65,
+        146
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 156,
+      "text": "And smiled",
+      "timestamp": "11:30",
+      "concepts": [],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.17,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 5,
+      "text": "Bro this class is going to be boring as hell",
+      "timestamp": "11:24",
+      "concepts": [
+        "this class",
+        "hell"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.39,
+      "links": [
+        1,
+        3
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 33,
+      "text": "Hey I talk nonsense and I am proud",
+      "timestamp": "11:25",
+      "concepts": [
+        "nonsense"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.28,
+      "links": [
+        32,
+        3,
+        21
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 46,
+      "text": "Bro that was deep",
+      "timestamp": "11:25",
+      "concepts": [
+        "that"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.22,
+      "links": [
+        19,
+        10,
+        32,
+        40
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 94,
+      "text": "Kunal was being weird again",
+      "timestamp": "11:28",
+      "concepts": [
+        "kunal"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.2,
+      "links": [
+        14,
+        12,
+        73
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 161,
+      "text": "oh, do you remember? what all did you teach me?",
+      "timestamp": "17:07",
+      "concepts": [
+        "all"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 21,
+      "text": "Mirage you coming to the ground after school",
+      "timestamp": "11:25",
+      "concepts": [
+        "ground",
+        "school"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.27,
+      "links": [
+        7,
+        1,
+        14,
+        3,
+        19
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 114,
+      "text": "That is not fair",
+      "timestamp": "11:29",
+      "concepts": [
+        "that"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.15,
+      "links": [
+        10,
+        19,
+        32,
+        40,
+        46
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 82,
+      "text": "Aarav says I think too much",
+      "timestamp": "11:27",
+      "concepts": [
+        "aarav"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.2,
+      "links": [
+        14,
+        4,
+        65,
+        73
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 80,
+      "text": "That sounds scary",
+      "timestamp": "11:27",
+      "concepts": [
+        "that"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.21,
+      "links": [
+        10,
+        19,
+        32,
+        40,
+        46
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 22,
+      "text": "I have tuition today but maybe I can come for half an hour",
+      "timestamp": "11:25",
+      "concepts": [
+        "today",
+        "half an hour",
+        "tuition"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        7,
+        19,
+        3,
+        21,
+        8
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 96,
+      "text": "Should I ignore him",
+      "timestamp": "11:28",
+      "concepts": [
+        "him"
+      ],
+      "emotions": [
+        "focus"
+      ],
+      "importance": 0.28,
+      "links": [
+        6,
+        15,
+        43
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 49,
+      "text": "That sentence stayed in my head all day",
+      "timestamp": "11:26",
+      "concepts": [
+        "all day",
+        "that sentence",
+        "head"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.3,
+      "links": [
+        11,
+        7,
+        37,
+        19,
+        14
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 30,
+      "text": "You are always so quiet in class",
+      "timestamp": "11:25",
+      "concepts": [
+        "class"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        14,
+        3,
+        21,
+        19,
+        7
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 123,
+      "text": "I try to earn that",
+      "timestamp": "11:29",
+      "concepts": [
+        "that"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.2,
+      "links": [
+        10,
+        19,
+        32,
+        40,
+        46
+      ],
+      "tier": "super_passive"
+    },
+    {
+      "id": 171,
+      "text": "I am NOVA, your AI assistant",
+      "timestamp": "17:15",
+      "concepts": [
+        "nova",
+        "ai assistant"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [],
+      "tier": "super_passive"
+    },
+    {
+      "id": 172,
+      "text": "Tell me about the memory system",
+      "timestamp": "17:19",
+      "concepts": [
+        "memory system"
+      ],
+      "emotions": [
+        "neutral"
+      ],
+      "importance": 0.33,
+      "links": [
+        128,
+        158
+      ],
+      "tier": "super_passive"
+    }
+  ],
+  "concept_frequency": {
+    "fourteen": 1,
+    "first": 2,
+    "school": 5,
+    "home": 1,
+    "six thirty": 1,
+    "mom": 1,
+    "dad": 1,
+    "discipline": 1,
+    "future": 1,
+    "the first week of ninth": 1,
+    "aarav": 3,
+    "best friend": 1,
+    "first week": 1,
+    "ninth grade": 1,
+    "this class": 1,
+    "hell": 1,
+    "him": 6,
+    "front row": 1,
+    "riya": 1,
+    "the third day": 1,
+    "third day": 1,
+    "everything": 4,
+    "something": 2,
+    "teacher": 3,
+    "mehta": 6,
+    "mr mehta": 4,
+    "better questions": 1,
+    "most seniors": 1,
+    "mirage": 3,
+    "too much mirage": 1,
+    "that": 18,
+    "good thing": 1,
+    "years": 1,
+    "that sentence": 2,
+    "kunal": 3,
+    "math test": 1,
+    "some people": 2,
+    "trash": 1,
+    "one evening": 1,
+    "class solving problems": 1,
+    "quadratic equations": 1,
+    "day": 2,
+    "ground": 1,
+    "today": 3,
+    "half an hour": 1,
+    "tuition": 1,
+    "bunking": 1,
+    "one day": 2,
+    "both": 2,
+    "canteen": 3,
+    "class": 2,
+    "nonsense": 2,
+    "true friendship": 1,
+    "stupidity": 1,
+    "last bench": 1,
+    "plate": 1,
+    "fries": 1,
+    "extra ketchup": 1,
+    "first time school": 1,
+    "her": 3,
+    "storms": 1,
+    "good way": 1,
+    "all day": 1,
+    "head": 1,
+    "tomorrow": 3,
+    "football": 1,
+    "that day": 1,
+    "just a good day": 1,
+    "good day": 1,
+    "those": 1,
+    "homework": 1,
+    "asleep thinking": 1,
+    "laughter": 1,
+    "anything": 1,
+    "some fries": 1,
+    "food": 2,
+    "dal": 1,
+    "rice": 1,
+    "things": 1,
+    "someone": 3,
+    "friend": 1,
+    "trouble": 1,
+    "wow thanks": 1,
+    "strength": 1,
+    "job": 1,
+    "bullies": 1,
+    "kindness": 1,
+    "strongest thing": 1,
+    "room": 2,
+    "goodnight": 2,
+    "goodnight mom": 1,
+    "kitchen": 1,
+    "those sounds": 1,
+    "a big day": 1,
+    "big day": 1,
+    "bell": 2,
+    "sir": 6,
+    "understanding": 1,
+    "lunch": 2,
+    "knowledge": 1,
+    "neither": 1,
+    "life": 1,
+    "them": 2,
+    "dangerous part": 1,
+    "ninth": 1,
+    "good work": 1,
+    "ninth grade results": 1,
+    "every single day": 1,
+    "staff meeting": 1,
+    "patience": 1,
+    "student": 1,
+    "no way": 1,
+    "fast time": 1,
+    "movie character": 1,
+    "one": 1,
+    "test": 1,
+    "boy": 1,
+    "yesterday": 1,
+    "name": 3,
+    "retired professor": 2,
+    "mathematics": 2,
+    "significant influence": 1,
+    "teaching style": 1,
+    "approach": 1,
+    "mr. mehta": 2,
+    "wonderful influence": 1,
+    "all": 2,
+    "his dive": 1,
+    "reunion": 1,
+    "any specific topics": 1,
+    "lessons": 1,
+    "this": 1,
+    "particular thing": 1,
+    "exactly": 1,
+    "big question": 1,
+    "math": 1,
+    "numbers": 1,
+    "patterns": 1,
+    "elegant logic": 1,
+    "krishna": 2,
+    "nova": 1,
+    "ai assistant": 1,
+    "memory system": 2,
+    "passive": 1,
+    "super passive": 1,
+    "3 tiers": 1,
+    "7 nodes": 1,
+    "50 nodes": 1,
+    "super": 1
+  },
+  "context_concepts": [
+    "passive",
+    "super passive",
+    "memory system",
+    "3 tiers",
+    "7 nodes",
+    "50 nodes",
+    "super",
+    "memory system",
+    "nova",
+    "ai assistant",
+    "name",
+    "krishna",
+    "krishna",
+    "name",
+    "that",
+    "big question",
+    "him",
+    "math",
+    "numbers",
+    "patterns"
+  ],
+  "interactions": {
+    "1": {
+      "count": 3,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "2": {
+      "count": 2,
+      "last_time": "17:08",
+      "promotion_count": 0
+    },
+    "3": {
+      "count": 9,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "4": {
+      "count": 5,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "5": {
+      "count": 2,
+      "last_time": "17:08",
+      "promotion_count": 0
+    },
+    "6": {
+      "count": 0,
+      "last_time": "11:24",
+      "promotion_count": 0
+    },
+    "7": {
+      "count": 10,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "8": {
+      "count": 1,
+      "last_time": "17:08",
+      "promotion_count": 0
+    },
+    "9": {
+      "count": 6,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "10": {
+      "count": 4,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "11": {
+      "count": 0,
+      "last_time": "11:24",
+      "promotion_count": 0
+    },
+    "12": {
+      "count": 2,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "13": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "14": {
+      "count": 7,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "15": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "16": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "17": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "18": {
+      "count": 6,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "19": {
+      "count": 2,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "20": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "21": {
+      "count": 1,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "22": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "23": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "24": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "25": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "26": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "27": {
+      "count": 1,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "28": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "29": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "30": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "31": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "32": {
+      "count": 2,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "33": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "34": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "35": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "36": {
+      "count": 3,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "37": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "38": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "39": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "40": {
+      "count": 4,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "41": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "42": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "43": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "44": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "45": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "46": {
+      "count": 1,
+      "last_time": "17:08",
+      "promotion_count": 0
+    },
+    "47": {
+      "count": 0,
+      "last_time": "11:25",
+      "promotion_count": 0
+    },
+    "48": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "49": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "50": {
+      "count": 4,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "51": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "52": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "53": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "54": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "55": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "56": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "57": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "58": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "59": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "60": {
+      "count": 3,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "61": {
+      "count": 4,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "62": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "63": {
+      "count": 1,
+      "last_time": "17:08",
+      "promotion_count": 0
+    },
+    "64": {
+      "count": 0,
+      "last_time": "11:26",
+      "promotion_count": 0
+    },
+    "65": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "66": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "67": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "68": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "69": {
+      "count": 1,
+      "last_time": "17:08",
+      "promotion_count": 0
+    },
+    "70": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "71": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "72": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "73": {
+      "count": 4,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "74": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "75": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "76": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "77": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "78": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "79": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "80": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "81": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "82": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "83": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "84": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "85": {
+      "count": 1,
+      "last_time": "17:08",
+      "promotion_count": 0
+    },
+    "86": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "87": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "88": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "89": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "90": {
+      "count": 0,
+      "last_time": "11:27",
+      "promotion_count": 0
+    },
+    "91": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "92": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "93": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "94": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "95": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "96": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "97": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "98": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "99": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "100": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "101": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "102": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "103": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "104": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "105": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "106": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "107": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "108": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "109": {
+      "count": 0,
+      "last_time": "11:28",
+      "promotion_count": 0
+    },
+    "110": {
+      "count": 8,
+      "last_time": "17:10",
+      "promotion_count": 1
+    },
+    "111": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "112": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "113": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "114": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "115": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "116": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "117": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "118": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "119": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "120": {
+      "count": 3,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "121": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "122": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "123": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "124": {
+      "count": 4,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "125": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "126": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "127": {
+      "count": 0,
+      "last_time": "11:29",
+      "promotion_count": 0
+    },
+    "128": {
+      "count": 5,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "129": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "130": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "131": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "132": {
+      "count": 4,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "133": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "134": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "135": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "136": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "137": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "138": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "139": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "140": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "141": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "142": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "143": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "144": {
+      "count": 8,
+      "last_time": "17:10",
+      "promotion_count": 1
+    },
+    "145": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "146": {
+      "count": 6,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "147": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "148": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "149": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "150": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "151": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "152": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "153": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "154": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "155": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "156": {
+      "count": 0,
+      "last_time": "11:30",
+      "promotion_count": 0
+    },
+    "157": {
+      "count": 7,
+      "last_time": "17:10",
+      "promotion_count": 1
+    },
+    "158": {
+      "count": 3,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "159": {
+      "count": 0,
+      "last_time": "17:07",
+      "promotion_count": 0
+    },
+    "160": {
+      "count": 0,
+      "last_time": "17:07",
+      "promotion_count": 0
+    },
+    "161": {
+      "count": 0,
+      "last_time": "17:07",
+      "promotion_count": 0
+    },
+    "162": {
+      "count": 1,
+      "last_time": "17:08",
+      "promotion_count": 0
+    },
+    "163": {
+      "count": 0,
+      "last_time": "17:08",
+      "promotion_count": 0
+    },
+    "164": {
+      "count": 0,
+      "last_time": "17:09",
+      "promotion_count": 0
+    },
+    "165": {
+      "count": 0,
+      "last_time": "17:09",
+      "promotion_count": 0
+    },
+    "166": {
+      "count": 0,
+      "last_time": "17:10",
+      "promotion_count": 0
+    },
+    "167": {
+      "count": 0,
+      "last_time": "17:11",
+      "promotion_count": 0
+    },
+    "168": {
+      "count": 0,
+      "last_time": "17:14",
+      "promotion_count": 0
+    },
+    "169": {
+      "count": 0,
+      "last_time": "17:14",
+      "promotion_count": 0
+    },
+    "170": {
+      "count": 0,
+      "last_time": "17:15",
+      "promotion_count": 0
+    },
+    "171": {
+      "count": 0,
+      "last_time": "17:15",
+      "promotion_count": 0
+    },
+    "172": {
+      "count": 0,
+      "last_time": "17:20",
+      "promotion_count": 0
+    },
+    "173": {
+      "count": 0,
+      "last_time": "17:20",
+      "promotion_count": 0
+    }
+  }
+}

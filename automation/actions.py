@@ -10,11 +10,12 @@ import requests
 from bs4 import BeautifulSoup
 
 from config import trace_logger
-from ollama.client import ollama_generate
+from ai.llm_brain import LLMBrain
 from ollama.prompts import ACTION_PARSER_PROMPT
 
 
-ACTION_MODEL = "qwen3:4b"
+# Initialize LLM brain for action parsing (Gemini -> Ollama fallback)
+llm_brain = LLMBrain()
 
 
 def _extract_json(text: str):
@@ -26,9 +27,8 @@ def parse_action_command(text: str) -> dict:
     trace_logger.info("Action parsing started")
     start = time.perf_counter()
 
-    raw_response = ollama_generate(
-        model=ACTION_MODEL,
-        prompt=ACTION_PARSER_PROMPT.replace("{user_input}", text),
+    raw_response = llm_brain.generate(
+        ACTION_PARSER_PROMPT.replace("{user_input}", text)
     )
 
     duration = time.perf_counter() - start
@@ -56,23 +56,24 @@ def parse_action_command(text: str) -> dict:
 # ======================================================
 
 def execute_action(action_data):
-    if not action_data or action_data.get("action") == "none":
+    if not action_data or action_data.get("intent") == "unknown":
         return "I didn't find anything to do."
 
+    intent = action_data.get("intent")
     action = action_data.get("action")
 
-    if action == "open_app":
+    if intent == "open_app":
         return open_app(action_data.get("target"))
 
-    if action == "search_web":
+    if intent == "search_web":
         return search_web(
-            action_data.get("query"),
-            action_data.get("engine")
+            action_data.get("query", action_data.get("target")),
+            action_data.get("engine", "google")
         )
 
-    if action == "system_control":
+    if intent == "system_control":
         return system_control(
-            action_data.get("command"),
+            action_data.get("action"),
             action_data.get("value")
         )
 

@@ -5,3 +5,10 @@ requests
 opencv-python
 mediapipe
 pyautogui
+azure-cognitiveservices-speech
+azure-ai-textanalytics
+azure-identity
+pygame
+pymongo
+beautifulsoup4
+spacy

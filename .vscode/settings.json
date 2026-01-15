@@ -1,0 +1,22 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "ConvertFrom-Json": true,
+        "timeout": true,
+        "ConvertTo-Json": true,
+        "f'": true,
+        "len(data.get(\\\"passive\\\",": true,
+        "data.get(\\\"passive\\\",": true,
+        "\\\"passive\\\",": true,
+        "print(f'": true,
+        "len(data.get(\\\"super_passive\\\",": true,
+        "data.get(\\\"super_passive\\\",": true,
+        "\\\"super_passive\\\",": true,
+        "len(data.get(\\\"active\\\",": true,
+        "data.get(\\\"active\\\",": true,
+        "\\\"active\\\",": true,
+        "print()": true,
+        "else:": true,
+        "print(f'Memory": true,
+        "memory_folder": true
+    }
+}

@@ -1,0 +1,18 @@
+=== FULL CONTEXT FOR LLM ===
+=== Active: 7 + Recalled: 5 = 12 nodes ===
+
+--- ACTIVE MEMORY (7 nodes) ---
+Unknown: I noticed Riya on the third day of school and everything changed
+Unknown: Staff meeting after lunch
+Unknown: Sir will we have test tomorrow
+Unknown: Sir, yesterday I met Mr Mehta, who is he ? he knew your name
+Unknown: Sir the bell already rang why are you still teaching
+Unknown: Sir you talk like a movie character
+NOVA: The memory system uses 3 tiers: Active (7 nodes), Passive (50 nodes), and Super Passive (unlimited).
+
+--- RECALLED MEMORIES ---
+User: Tell me about the memory system [from super_passive]
+Unknown: Mr Mehta is a retired professor who taught me mathematics and had a significant influence on my teaching style and approach. [from passive]
+Unknown: When the class ended the room felt quiet [from passive]
+Unknown: Knowledge is also food [from passive]
+Unknown: Friend or trouble [from passive]

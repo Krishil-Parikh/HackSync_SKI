@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-01-15T17:06:21.105724",
+  "components": {
+    "azure_speech": {
+      "status": "ONLINE",
+      "region": "centralindia",
+      "voice": "en-US-JennyNeural"
+    },
+    "azure_emotion": {
+      "status": "OFFLINE",
+      "error": "(401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.\nCode: 401\nMessage: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource."
+    },
+    "ollama_llm": {
+      "status": "ONLINE",
+      "models": {
+        "conversation": "llama3.2:3b",
+        "intent": "qwen3:4b",
+        "memory": "llama3:instruct"
+      }
+    },
+    "gemini_llm": {
+      "status": "CONFIGURED",
+      "model": "google/gemini-2.5-flash",
+      "provider": "OpenRouter"
+    },
+    "database": {
+      "status": "ONLINE",
+      "active_memory_file": "memory_bus/active_memory.json",
+      "memory_types": [
+        "active",
+        "passive"
+      ]
+    },
+    "audio_input": {
+      "status": "ONLINE",
+      "device": "[1, 4]"
+    },
+    "pyttsx3_fallback": {
+      "status": "ONLINE",
+      "used_when": "Azure speech synthesis fails"
+    }
+  },
+  "overall_status": "READY",
+  "emotion_mode": "DISABLED",
+  "summary": {
+    "critical_online": 2,
+    "fallback_online": 3,
+    "emotion_capable": false
+  }
+}
